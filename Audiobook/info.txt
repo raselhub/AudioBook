@@ -1,0 +1,12 @@
+IdentityServer is an authentication server that implements OpenID Connect (OIDC) and OAuth 2.0 standards for ASP.NET Core. It's designed to provide a common way to authenticate requests to all of your applications, whether they're web, native, mobile, or API endpoints.
+
+what is wso2 identity server? 
+
+WSO2 Identity Server, a part of the WSO2 Integration Agile Platform, is an open source IAM solution that facilitates single sign-on (SSO) between applications and federates identities between multiple heterogeneous systems. It's optimized for securing APIs, microservices, and customer IAM projects.
+
+
+What is Oauth 2.0?
+OAuth 2.0, which stands for “Open Authorization”, is a standard designed to allow a website or application to access resources hosted by other web apps on behalf of a user.
+
+How secure is Oauth?
+OAuth 2.0 is a more straightforward protocol passing the client secret with every authentication request. Therefore, this protocol is not backward compatible with OAuth 1.0. Moreover, it is deemed less secure because it relies solely on the SSL/TLS layer.
